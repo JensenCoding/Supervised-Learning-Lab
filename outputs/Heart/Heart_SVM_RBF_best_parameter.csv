@@ -1,0 +1,2 @@
+C,cache_size,class_weight,coef0,decision_function_shape,degree,gamma,kernel,max_iter,probability,random_state,shrinking,tol,verbose
+0.751,200,balanced,0.0,ovo,3,0.005623413251903491,rbf,4126,False,,True,0.020000010000000002,False
